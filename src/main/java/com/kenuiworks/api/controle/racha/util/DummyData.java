@@ -1,10 +1,10 @@
 package com.kenuiworks.api.controle.racha.util;
 
-import com.kenuiworks.api.controle.racha.model.Grupo;
-import com.kenuiworks.api.controle.racha.model.TipoAssociacao;
-import com.kenuiworks.api.controle.racha.model.TipoGrupo;
+import com.kenuiworks.api.controle.racha.model.grupo.Grupo;
+import com.kenuiworks.api.controle.racha.model.socio.TipoAssociacao;
+import com.kenuiworks.api.controle.racha.model.grupo.TipoGrupo;
 import com.kenuiworks.api.controle.racha.repository.GrupoRepository;
-import com.kenuiworks.api.controle.racha.model.Socio;
+import com.kenuiworks.api.controle.racha.model.socio.Socio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

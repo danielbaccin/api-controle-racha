@@ -2,7 +2,7 @@ package com.kenuiworks.api.controle.racha.service.impl;
 
 import com.kenuiworks.api.controle.racha.repository.SocioRepository;
 import com.kenuiworks.api.controle.racha.mapper.SocioMapper;
-import com.kenuiworks.api.controle.racha.model.Socio;
+import com.kenuiworks.api.controle.racha.model.socio.Socio;
 import com.kenuiworks.api.controle.racha.model.dto.SocioDTO;
 import com.kenuiworks.api.controle.racha.service.SocioService;
 import lombok.AllArgsConstructor;

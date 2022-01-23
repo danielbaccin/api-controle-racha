@@ -1,6 +1,6 @@
 package com.kenuiworks.api.controle.racha.mapper;
 
-import com.kenuiworks.api.controle.racha.model.Socio;
+import com.kenuiworks.api.controle.racha.model.socio.Socio;
 import com.kenuiworks.api.controle.racha.model.dto.SocioDTO;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

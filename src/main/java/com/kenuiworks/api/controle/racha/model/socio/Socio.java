@@ -1,5 +1,6 @@
-package com.kenuiworks.api.controle.racha.model;
+package com.kenuiworks.api.controle.racha.model.socio;
 
+import com.kenuiworks.api.controle.racha.model.grupo.Grupo;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

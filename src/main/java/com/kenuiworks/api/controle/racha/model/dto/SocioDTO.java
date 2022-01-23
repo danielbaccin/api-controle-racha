@@ -1,6 +1,6 @@
 package com.kenuiworks.api.controle.racha.model.dto;
 
-import com.kenuiworks.api.controle.racha.model.TipoAssociacao;
+import com.kenuiworks.api.controle.racha.model.socio.TipoAssociacao;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
